@@ -4,5 +4,4 @@ Includes:
 - 2 players
 - start, pause and game over menus
 - random rock spawning
-
-  Feel free to take any code.
+Probably won't work on your machine because I don't know
